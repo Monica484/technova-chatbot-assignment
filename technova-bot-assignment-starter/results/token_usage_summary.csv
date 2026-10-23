@@ -1,0 +1,2 @@
+model_runs,input_tokens,output_tokens,total_tokens,average_tokens_per_call,hypothetical_small_model_cost_usd,hypothetical_large_model_cost_usd
+94,46780,5908,52688,560.51,0.010538,0.047419

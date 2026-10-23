@@ -1,0 +1,2 @@
+total_questions,rule_based_passes,judge_records_complete,judge_records_incomplete,avg_correctness_out_of_5,avg_relevance_out_of_5,avg_completeness_out_of_5,notes
+10,10,6,4,5.0,5.0,5.0,Heuristic 10/10 is preliminary; judge averages apply only to 6 parseable records

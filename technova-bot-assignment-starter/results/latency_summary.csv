@@ -1,0 +1,2 @@
+model,total_requests,successful_requests,failed_requests,average_seconds,p50_seconds,p95_seconds
+nvidia/nemotron-3.5-lightning-30b-a3b,20,20,0,3.543,1.764,12.887
